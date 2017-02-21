@@ -1,0 +1,23 @@
+"*":
+  core:
+    openEmptyEditorOnStart: false
+    projectHome: "/home/treyzania/dev/git"
+    telemetryConsent: "limited"
+    themes: [
+      "one-light-ui"
+      "one-light-syntax"
+    ]
+    warnOnLargeFileLimit: 10
+  editor:
+    fontSize: 12
+    invisibles: {}
+    softTabs: false
+    tabLength: 4
+  "exception-reporting":
+    userId: "3b34b651-e4de-4c82-8da3-b798f0bf8a00"
+  racer:
+    cargoHome: "/home/treyzania/.cargo"
+    racerBinPath: "/home/treyzania/.cargo/bin/racer"
+    rustSrcPath: "/home/treyzania/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src"
+  welcome:
+    showOnStartup: false

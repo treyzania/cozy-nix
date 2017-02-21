@@ -1,0 +1,11 @@
+atom-beautify
+autocomplete-python
+linter
+python-tools
+autocomplete-bash-builtins
+language-brainfuck
+linter-clang
+racer
+autocomplete-clang
+language-rust
+linter-rust

@@ -1,0 +1,7 @@
+git
+gedit
+gparted
+curl
+clang
+tree
+firefox
