@@ -14,6 +14,7 @@ sudo ./packages.sh
 
 # rustup
 curl https://sh.rustup.rs -sSf | sh
+rustup component add rust-src
 source ~/.cargo/env
 
 # Atom packages
